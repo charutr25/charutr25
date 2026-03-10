@@ -3,7 +3,7 @@
 🎯 A Data Engineer with 9+ years of experience working on end-to-end data pipelines, reporting dashboards, and workflow automation. Currently working at **Dell Technologies**, previously at **Wells Fargo**, **TE Connectivity**, and **IBM**.
 
 ### 💼 What I Do
-- Build scalable **ETL pipelines** (SSIS, Airflow, SAS EG)
+- Built scalable **ETL pipelines** (SSIS, Airflow, SAS EG)
 - Design **insightful dashboards** (Power BI, Tableau)
 - Automate workflows using **Python**, **SQL**, and **SSIS**
 - Apply statistical models like **multilinear regression** & **price elasticity**
